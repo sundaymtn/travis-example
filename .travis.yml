@@ -1,2 +1,2 @@
 language: java
-script: mvn test -Ptomcat6x
+script: mvn integration-test -Ptomcat6x
